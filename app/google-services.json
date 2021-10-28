@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "532313026993",
+    "project_id": "kotlinfirebaseanalytics",
+    "storage_bucket": "kotlinfirebaseanalytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532313026993:android:55bdd9d422167f0d8b0d90",
+        "android_client_info": {
+          "package_name": "com.ramazanaksoy.games"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532313026993-2mchjkm9it8312tk51269leeutj4lq5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramazanaksoy.games",
+            "certificate_hash": "ddf77a50266002d424d400f709c16fc711ec9e3c"
+          }
+        },
+        {
+          "client_id": "532313026993-1cmic8vcliomepbou2j2pfsteim0onei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaLoq-e2miM2svW_LOLVdSVDNQ39kUzxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532313026993-1cmic8vcliomepbou2j2pfsteim0onei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
